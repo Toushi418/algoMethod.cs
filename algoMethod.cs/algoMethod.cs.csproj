@@ -45,9 +45,33 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="入力を受け取る\たくさんの入力を受け取る\1.cs" />
+    <Compile Include="入力を受け取る\たくさんの入力を受け取る\2.cs" />
+    <Compile Include="入力を受け取る\たくさんの入力を受け取る\3.cs" />
+    <Compile Include="入力を受け取る\標準入力\1.cs" />
+    <Compile Include="入力を受け取る\標準入力\2.cs" />
+    <Compile Include="入力を受け取る\標準入力\3.cs" />
+    <Compile Include="入力を受け取る\標準入力\4.cs" />
+    <Compile Include="入力を受け取る\標準入力\5.cs" />
+    <Compile Include="入力を受け取る\標準出力\1.cs" />
+    <Compile Include="入力を受け取る\標準出力\2.cs" />
+    <Compile Include="入力を受け取る\標準出力\3.cs" />
+    <Compile Include="入力を受け取る\標準出力\4.cs" />
+    <Compile Include="入力を受け取る\標準出力\5.cs" />
+    <Compile Include="入力を受け取る\複数の入力を受け取る\1.cs" />
+    <Compile Include="入力を受け取る\複数の入力を受け取る\10.cs" />
+    <Compile Include="入力を受け取る\複数の入力を受け取る\2.cs" />
+    <Compile Include="入力を受け取る\複数の入力を受け取る\3.cs" />
+    <Compile Include="入力を受け取る\複数の入力を受け取る\4.cs" />
+    <Compile Include="入力を受け取る\複数の入力を受け取る\5.cs" />
+    <Compile Include="入力を受け取る\複数の入力を受け取る\6.cs" />
+    <Compile Include="入力を受け取る\複数の入力を受け取る\7.cs" />
+    <Compile Include="入力を受け取る\複数の入力を受け取る\8.cs" />
+    <Compile Include="入力を受け取る\複数の入力を受け取る\9.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
